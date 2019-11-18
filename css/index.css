@@ -29,7 +29,7 @@ html,body{
     position: absolute;
     width: 60%;
     height: 20%;
-    top:10%;
+    top:50%;
     left:20%;
 }
 .index-first img:nth-child(2){
